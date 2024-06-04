@@ -1,0 +1,20 @@
+Jun 04, 2024 2:31:09 AM edu.depaul.LoggingSystem logInfo
+INFO: User 'user1' Authentication Completed Successfully!
+Jun 04, 2024 2:31:10 AM edu.depaul.LoggingSystem logInfo
+INFO: User Loggedin Successfully! Opening User Account Window
+Jun 04, 2024 2:31:10 AM edu.depaul.LoggingSystem logInfo
+INFO: Cart Data for the user is loaded to Cart Window
+Jun 04, 2024 2:31:10 AM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 2:31:11 AM edu.depaul.LoggingSystem logInfo
+INFO: Opening new Cart Window
+Jun 04, 2024 2:31:13 AM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 2:31:17 AM edu.depaul.LoggingSystem logInfo
+INFO: Opening Product Catalog Window!
+Jun 04, 2024 2:31:18 AM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 2:31:20 AM edu.depaul.LoggingSystem logInfo
+INFO: Opening new Cart Window
+Jun 04, 2024 2:31:22 AM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
