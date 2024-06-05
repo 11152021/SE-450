@@ -1,20 +1,40 @@
-Jun 04, 2024 2:31:09 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:19 PM edu.depaul.LoggingSystem logInfo
 INFO: User 'user1' Authentication Completed Successfully!
-Jun 04, 2024 2:31:10 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:21 PM edu.depaul.LoggingSystem logInfo
 INFO: User Loggedin Successfully! Opening User Account Window
-Jun 04, 2024 2:31:10 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:21 PM edu.depaul.LoggingSystem logInfo
 INFO: Cart Data for the user is loaded to Cart Window
-Jun 04, 2024 2:31:10 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:21 PM edu.depaul.LoggingSystem logInfo
 INFO: Updated Cart Label!
-Jun 04, 2024 2:31:11 AM edu.depaul.LoggingSystem logInfo
-INFO: Opening new Cart Window
-Jun 04, 2024 2:31:13 AM edu.depaul.LoggingSystem logInfo
-INFO: Updated Cart Label!
-Jun 04, 2024 2:31:17 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:26 PM edu.depaul.LoggingSystem logInfo
 INFO: Opening Product Catalog Window!
-Jun 04, 2024 2:31:18 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:28 PM edu.depaul.LoggingSystem logInfo
 INFO: Updated Cart Label!
-Jun 04, 2024 2:31:20 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:31 PM edu.depaul.LoggingSystem logInfo
+INFO: Opening Product Catalog Window!
+Jun 04, 2024 8:07:33 PM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 8:07:37 PM edu.depaul.LoggingSystem logInfo
 INFO: Opening new Cart Window
-Jun 04, 2024 2:31:22 AM edu.depaul.LoggingSystem logInfo
+Jun 04, 2024 8:07:40 PM edu.depaul.LoggingSystem logInfo
 INFO: Updated Cart Label!
+Jun 04, 2024 8:07:43 PM edu.depaul.LoggingSystem logInfo
+INFO: Opening new Cart Window
+Jun 04, 2024 8:07:48 PM edu.depaul.LoggingSystem logInfo
+INFO: Opening Payment Window!
+Jun 04, 2024 8:07:50 PM edu.depaul.LoggingSystem logInfo
+INFO: User user1 Found! Payment Details Verification Complete
+Jun 04, 2024 8:07:53 PM edu.depaul.LoggingSystem logInfo
+INFO: Inserted Order Details into ORDERS Table
+Jun 04, 2024 8:07:53 PM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 8:07:55 PM edu.depaul.LoggingSystem logInfo
+INFO: Opening Product Catalog Window!
+Jun 04, 2024 8:07:56 PM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 8:07:58 PM edu.depaul.LoggingSystem logInfo
+INFO: Opening Product Catalog Window!
+Jun 04, 2024 8:07:59 PM edu.depaul.LoggingSystem logInfo
+INFO: Updated Cart Label!
+Jun 04, 2024 8:08:02 PM edu.depaul.LoggingSystem logInfo
+INFO: Cart Information is saved to the Database
