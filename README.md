@@ -12,6 +12,7 @@ How to Run this Application:
 The Application can be run manually through console using javac & java or through an IDE using Run Button. 
 
 Notes on Invokation: 
+
 The Main Method servers as in Entry Point to the Application. 
 This main method creates an instance of UserAuthenticationWindow class within the context of the Swing EDT (Event Dispatch Thread).
 This will create the required GUI components
