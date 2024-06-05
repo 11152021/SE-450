@@ -10,3 +10,6 @@ The Java Version used is JDK-20.jdk
 <img width="1675" alt="Screenshot 2024-06-04 at 8 18 20 PM" src="https://github.com/11152021/SE-450/assets/21029805/9647f2e8-1e40-4ac3-a0fd-13f29f3f56d5">
 
 
+
+<img width="1440" alt="Screenshot 2024-06-04 at 9 40 43 PM" src="https://github.com/11152021/SE-450/assets/21029805/eb826353-4951-417b-be42-8b856437939b">
+
