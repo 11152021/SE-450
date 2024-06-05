@@ -8,6 +8,7 @@ UML Diagram:
 
 
 How to Run this Application:
+
 The Application can be run manually through console using javac & java or through an IDE using Run Button. 
 
 Notes on Invokation: 
